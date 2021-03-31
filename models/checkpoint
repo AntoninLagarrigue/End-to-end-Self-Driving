@@ -1,2 +1,2 @@
-model_checkpoint_path: "DQN"
-all_model_checkpoint_paths: "DQN"
+model_checkpoint_path: "IL_0"
+all_model_checkpoint_paths: "IL_0"
